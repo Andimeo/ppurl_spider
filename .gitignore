@@ -1,0 +1,5 @@
+*.pyc
+ppurl.txt
+.project
+.pydevproject
+.settings
